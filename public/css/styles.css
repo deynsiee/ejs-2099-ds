@@ -1,0 +1,18 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: bisque;
+  margin: 50px;
+}
+
+.section h2 {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.section li {
+  margin: 10px;
+}
+
+.section {
+  margin-left: 50px;
+}
